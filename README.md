@@ -1,2 +1,2 @@
 # devotae
-A public of Christian faith.
+A public confession of Christian faith.
