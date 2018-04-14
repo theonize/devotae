@@ -1,6 +1,10 @@
 # devotae
 `A confession of Christian faith.`
 
+* [Trinity]()
+* [Salvation]()
+* [Church]()
+* [Resurrection]()
 
 ## Structure
 The top level of the confession are the highest ideas in Scripture.
